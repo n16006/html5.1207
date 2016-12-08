@@ -220,7 +220,7 @@ header {
 
 
 /*#18*/
-/*#anime {
+#anime {
 	width: 50px;
 	height: 50px;
 	background: skyblue;
@@ -245,4 +245,4 @@ header {
 	100%{
 		margin-left: 0%;
 	}
-}*/
+}
